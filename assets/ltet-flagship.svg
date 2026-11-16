@@ -53,13 +53,14 @@
   </text>
 
   <g font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="16" fill="#a8c4d8">
-    <text x="272" y="304" opacity="0">Deterministic, fact-safe voice assistant for the Employee Trust Portal.<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.3s" fill="freeze"/></text>
-    <text x="272" y="334" opacity="0">Verified claim-status, payment &amp; beneficiary enquiries across<tspan fill="#7fe0d6" font-weight="bold"> 22 languages</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/></text>
-    <text x="272" y="364" opacity="0">— then auditable post-call intelligence for processors.<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.9s" fill="freeze"/></text>
+    <text x="272" y="296" opacity="0">Deterministic, fact-safe voice assistant for the<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.3s" fill="freeze"/></text>
+    <text x="272" y="322" opacity="0">LTET Employee Trust Portal — verified claim-status,<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/></text>
+    <text x="272" y="348" opacity="0">payment &amp; beneficiary enquiries across<tspan fill="#7fe0d6" font-weight="bold"> 22 languages</tspan>,<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.9s" fill="freeze"/></text>
+    <text x="272" y="374" opacity="0">then auditable post-call intelligence for processors.<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.2s" fill="freeze"/></text>
   </g>
 
-  <text x="272" y="412" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="13" fill="#7c8fd6" opacity="0">Dial-in helpline: PS + name + DOB verification · governed administration
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.2s" fill="freeze"/>
+  <text x="272" y="408" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="13" fill="#7c8fd6" opacity="0">Dial-in helpline: PS + name + DOB verification · governed administration
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze"/>
   </text>
 
   <!-- right column: spec chips -->
